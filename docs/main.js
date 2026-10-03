@@ -1,5 +1,5 @@
 (function () {
-  const REPO_API = "https://api.github.com/repos/cifertech/ESP32-DIV";
+  const REPO_API = "https://api.github.com/repos/ThatOneGuyDavid/ESP32-DIV-TOGD";
 
   const BOARD_CONFIG = {
     v2: { prefix: "ESP32-DIV-v2", manifestName: "ESP32-DIV v2", chipFamily: "ESP32-S3" },
