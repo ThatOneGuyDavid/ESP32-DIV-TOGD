@@ -6,19 +6,15 @@
   <br/>
 
   <p align="center">
-    <a href="https://github.com/cifertech/ESP32-DIV"><img src="https://img.shields.io/static/v1?label=cifertech&message=ESP32-DIV&color=orange&logo=github"/></a>
-    <a href="https://github.com/cifertech/ESP32-DIV"><img src="https://img.shields.io/github/stars/cifertech/ESP32-DIV?style=social"/></a>
-    <a href="https://github.com/cifertech/ESP32-DIV"><img src="https://img.shields.io/github/forks/cifertech/ESP32-DIV?style=social"/></a>
-    <img src="https://img.shields.io/github/downloads/cifertech/esp32-div/total?color=orange&label=downloads&logo=github"/>
+    <a href="https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD"><img src="https://img.shields.io/static/v1?label=cifertech&message=ESP32-DIV&color=orange&logo=github"/></a>
+    <a href="https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD"><img src="https://img.shields.io/github/stars/ThatOneGuyDavid/ESP32-DIV-TOGD?style=social"/></a>
+    <a href="https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD"><img src="https://img.shields.io/github/forks/ThatOneGuyDavid/ESP32-DIV-TOGD?style=social"/></a>
+    <img src="https://img.shields.io/github/downloads/ThatOneGuyDavid/ESP32-DIV-TOGD/total?color=orange&label=downloads&logo=github"/>
     <img src="https://img.shields.io/badge/ESP32-Offensive%20%2B%20Defensive-orange?logo=espressif"/>
     <img src="https://img.shields.io/badge/license-MIT-orange"/>
   </p>
 
   <p align="center">
-    <a href="https://twitter.com/techcifer"><img src="https://img.shields.io/badge/Twitter-orange?logo=x&logoColor=black"/></a>
-    <a href="https://www.instagram.com/cifertech/"><img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=black"/></a>
-    <a href="https://www.youtube.com/c/techcifer"><img src="https://img.shields.io/badge/YouTube-orange?logo=youtube&logoColor=black"/></a>
-    <a href="https://cifertech.net/"><img src="https://img.shields.io/badge/Website-orange?logo=googlechrome&logoColor=black"/></a>
   </p>
 
 </div>
@@ -27,9 +23,9 @@
 
 ## 📖 Explore the ESP32-DIV Wiki
 
-Complete project story, in-depth tutorials, and all the features in [Wiki](https://github.com/cifertech/ESP32-DIV/wiki)! From Wi-Fi deauthentication attacks to Sub-GHz signal replay, the Wiki covers everything you need to get started. [Click here to explore now!](https://github.com/cifertech/ESP32-DIV/wiki)
+Complete project story, in-depth tutorials, and all the features in [Wiki](https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/tree/hardware/custom-board/docs/custom-hardware)! From Wi-Fi deauthentication attacks to Sub-GHz signal replay, the Wiki covers everything you need to get started. [Click here to explore now!](https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/tree/hardware/custom-board/docs/custom-hardware)
 
-> ⚡ **Skip the IDE** — flash directly from your browser at [cifertech.github.io/ESP32-DIV](https://cifertech.github.io/ESP32-DIV)
+> ⚡ **Skip the IDE** — flash directly from your browser at [cifertech.github.io/ESP32-DIV](https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/tree/hardware/custom-board/docs)
 
 <div>&nbsp;</div>
 
