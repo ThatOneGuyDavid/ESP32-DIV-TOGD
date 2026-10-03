@@ -206,11 +206,11 @@ ESP32DIV consists of two boards:
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/0aeca1bb-9023-43a0-9f62-f89ced53098f" alt="ESP32-DIV Beta" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
+      <img src="docs/custom-hardware/images/coming-soon.svg" alt="Custom hardware images coming soon" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
       <p style="font-style: italic; font-size: 14px; margin-top: 5px;">ESP32-DIV v2 Main Board</p>
     </td>    
     <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/bbfa2c55-02e0-4795-b003-fde06f2d64d9" alt="ESP32-DIV v1" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
+      <img src="docs/custom-hardware/images/coming-soon.svg" alt="Custom hardware images coming soon" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
       <p style="font-style: italic; font-size: 14px; margin-top: 5px;">ESP32-DIV v2 Shield</p>
     </td>
   </tr>
@@ -219,11 +219,11 @@ ESP32DIV consists of two boards:
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/b4e3ad5e-4f43-4c08-ae33-d713be0a3855" alt="ESP32-DIV Beta" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
+      <img src="docs/custom-hardware/images/coming-soon.svg" alt="Custom hardware images coming soon" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
       <p style="font-style: italic; font-size: 14px; margin-top: 5px;">ESP32-DIV v1 Main Board</p>
     </td>    
     <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/21f10c62-5e6c-4565-8b86-7b89e24680c3" alt="ESP32-DIV v1" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
+      <img src="docs/custom-hardware/images/coming-soon.svg" alt="Custom hardware images coming soon" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
       <p style="font-style: italic; font-size: 14px; margin-top: 5px;">ESP32-DIV v1 Shield</p>
     </td>
   </tr>
