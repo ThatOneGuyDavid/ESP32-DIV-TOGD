@@ -6,7 +6,7 @@
   <br/>
 
   <p align="center">
-    <a href="https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD"><img src="https://img.shields.io/static/v1?label=cifertech&message=ESP32-DIV&color=orange&logo=github"/></a>
+    <a href="https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD"><img src="https://img.shields.io/static/v1?label=independent-fork&message=ESP32-DIV-TOGD&color=orange&logo=github"/></a>
     <a href="https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD"><img src="https://img.shields.io/github/stars/ThatOneGuyDavid/ESP32-DIV-TOGD?style=social"/></a>
     <a href="https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD"><img src="https://img.shields.io/github/forks/ThatOneGuyDavid/ESP32-DIV-TOGD?style=social"/></a>
     <img src="https://img.shields.io/github/downloads/ThatOneGuyDavid/ESP32-DIV-TOGD/total?color=orange&label=downloads&logo=github"/>
