@@ -27,14 +27,14 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Callable, Optional
 
-APP_NAME = "ESP32-DIV"
+APP_NAME = "ESP32-DIV-TOGD"
 APP_TAGLINE = "Firmware installer"
 __version__ = "1.2.0"
-GITHUB_REPO_URL = "https://github.com/cifertech/ESP32-DIV"
-GITHUB_API_LATEST_RELEASE = "https://api.github.com/repos/cifertech/ESP32-DIV/releases/latest"
-GITHUB_API_RELEASES = "https://api.github.com/repos/cifertech/ESP32-DIV/releases"
-# Browser flasher UI reference: https://github.com/cifertech/FirmwareHub
-FH_BROWSER_APP_URL = "https://cifertech.github.io/FirmwareHub/"
+GITHUB_REPO_URL = "https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD"
+GITHUB_API_LATEST_RELEASE = "https://api.github.com/repos/ThatOneGuyDavid/ESP32-DIV-TOGD/releases/latest"
+GITHUB_API_RELEASES = "https://api.github.com/repos/ThatOneGuyDavid/ESP32-DIV-TOGD/releases"
+# Browser flasher UI reference: https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/tree/hardware/custom-board/tools/esp32-div-flasher
+FH_BROWSER_APP_URL = "https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/tree/hardware/custom-board/tools/esp32-div-flasher"
 
 _FH_PALETTE: dict[str, dict[str, str]] = {
     "dark": {
@@ -1310,8 +1310,8 @@ def _gui() -> None:
         lb.bind("<Leave>", _out)
 
     for txt, url in (
-        ("FirmwareHub", FH_BROWSER_APP_URL),
-        ("ESP32-DIV", GITHUB_REPO_URL),
+        ("Flasher documentation", FH_BROWSER_APP_URL),
+        ("ESP32-DIV-TOGD", GITHUB_REPO_URL),
     ):
         lb = tk.Label(
             links_fr,
