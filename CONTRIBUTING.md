@@ -1,6 +1,6 @@
-# Contributing to ESP32-DIV
+# Contributing to ESP32-DIV-TOGD
 
-Thank you for your interest in contributing to **ESP32-DIV**! This document outlines the process for reporting bugs, requesting features, and submitting code or documentation improvements.
+Thank you for your interest in contributing to **ESP32-DIV-TOGD**! This document outlines the process for reporting bugs, requesting features, and submitting code or documentation improvements.
 
 ---
 
@@ -30,17 +30,17 @@ By participating in this project you agree to be respectful and constructive. Ha
 1. **Fork** the repository using the Fork button at the top of the page.
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/<your-username>/ESP32-DIV.git
-   cd ESP32-DIV
+   git clone https://github.com/<your-username>/ESP32-DIV-TOGD.git
+   cd ESP32-DIV-TOGD
    ```
 3. Create a new **branch** for your change:
    ```bash
    git checkout -b feat/your-descriptive-branch-name
    ```
 4. Make your changes, then **commit** and **push** to your fork.
-5. Open a **Pull Request** against the `dev` branch of `cifertech/ESP32-DIV`.
+5. Open a **Pull Request** against the `hardware/custom-board` branch of this repository.
 
-> All PRs target `dev` first. Once tested and verified on real hardware, changes are merged into `main` as part of a release.
+> This fork uses `hardware/custom-board` for the custom hardware adaptation. Keep changes focused and document the hardware or software configuration you tested.
 
 ---
 
@@ -50,7 +50,7 @@ By participating in this project you agree to be respectful and constructive. Ha
 
 Before opening a bug report, please:
 
-- Search [existing issues](https://github.com/cifertech/ESP32-DIV/issues) to avoid duplicates.
+- Search [existing issues](https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/issues) to avoid duplicates.
 - Check the [Troubleshooting & FAQ](README.md#troubleshooting--faq) section of the README.
 
 When creating a bug report, include:
@@ -68,17 +68,17 @@ When creating a bug report, include:
 
 ### Suggesting Features
 
-- Open a [Discussion](https://github.com/cifertech/ESP32-DIV/discussions) first before writing any code this ensures the feature fits the project direction.
+- Open a [Discussion](https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/discussions) first before writing any code this ensures the feature fits the project direction.
 - Describe the use case, not just the implementation idea.
 - If the feature requires hardware changes, note which modules or pins are involved.
-- Once discussed and approved, open an [issue](https://github.com/cifertech/ESP32-DIV/issues/new) with the label `enhancement`.
+- Once discussed and approved, open an [issue](https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/issues/new) with the label `enhancement`.
 
 ### Submitting Pull Requests
 
 - Keep PRs **focused** one feature or fix per PR.
 - **Test on real hardware** before submitting compile-only checks are not enough. Note which board version you tested on (v1, v2, or CYD).
 - Reference the related issue in the PR description: `Fixes #123` or `Closes #456`.
-- Ensure your branch is up to date with `dev` before opening a PR:
+- Ensure your branch is up to date with the upstream branch you are targeting before opening a PR:
   ```bash
   git fetch upstream
   git rebase upstream/dev
@@ -202,4 +202,9 @@ chore(ci): add Arduino compile check workflow
 
 ---
 
-> Questions? Start a [Discussion](https://github.com/cifertech/ESP32-DIV/discussions) or open an [Issue](https://github.com/cifertech/ESP32-DIV/issues). We appreciate every contribution, no matter how small!
+> Questions? Open a [Discussion](https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/discussions) or open an [Issue](https://github.com/ThatOneGuyDavid/ESP32-DIV-TOGD/issues). We appreciate every contribution, no matter how small!
+
+
+## Upstream project
+
+This repository is an independent hardware adaptation of [CiferTech's ESP32-DIV project](https://github.com/cifertech/ESP32-DIV). Please keep upstream attribution intact. For issues that reproduce on the original supported hardware, report them to the upstream project.
