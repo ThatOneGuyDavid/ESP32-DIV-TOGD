@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Project images coming soon</title>
+  <desc id="desc">Placeholder for custom hardware photographs and diagrams.</desc>
+  <rect width="1200" height="675" fill="#20252b"/>
+  <rect x="32" y="32" width="1136" height="611" rx="20" fill="none" stroke="#9aa4ad" stroke-width="4" stroke-dasharray="18 14"/>
+  <text x="600" y="305" fill="#f1f4f6" font-family="sans-serif" font-size="44" text-anchor="middle">Custom hardware images</text>
+  <text x="600" y="365" fill="#b9c1c8" font-family="sans-serif" font-size="30" text-anchor="middle">coming soon</text>
+</svg>
