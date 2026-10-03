@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/1f70e8ba-d8be-4889-959a-700294068a3e" alt="ESP32-DIV Banner" width="100%"/>
+  <img src="docs/custom-hardware/images/coming-soon.svg" alt="Custom hardware images coming soon" width="100%"/>
 
   <br/>
   <br/>
@@ -32,6 +32,21 @@ Complete project story, in-depth tutorials, and all the features in [Wiki](https
 > ⚡ **Skip the IDE** — flash directly from your browser at [cifertech.github.io/ESP32-DIV](https://cifertech.github.io/ESP32-DIV)
 
 <div>&nbsp;</div>
+
+## About this fork
+
+This is an independent hardware adaptation of
+[CiferTech's ESP32-DIV project](https://github.com/cifertech/ESP32-DIV).
+
+The upstream firmware, documentation, libraries, graphics, and hardware
+materials remain credited to their original authors and are used under their
+respective licenses. This fork documents a different hardware configuration;
+custom notes are under [docs/custom-hardware](docs/custom-hardware/).
+
+This fork is not affiliated with or maintained by CiferTech.
+
+> Project photographs and custom diagrams will be added as the hardware work
+> progresses. The placeholder image is intentional.
 
 <!-- About the Project -->
 ## :star2: About the Project
@@ -155,28 +170,10 @@ ESP32-DIV is an open-source, multi-band wireless toolkit built on the **ESP32-S3
 
 <div>&nbsp;</div>
 
-<!-- ESP32-DIV --> 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/52e5be67-9dc7-4b08-bd2a-0a4e4235cf9d" alt="ESP32-DIV Beta" style="width: 1920px; border: 1px solid #ccc; border-radius: 5px;">
-      <p style="font-style: italic; font-size: 14px; margin-top: 5px;">ESP32-DIV v2</p>
-    </td>    
-  </tr>
-</table>
+<!-- Project images -->
+## Project images
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/466ffd1b-9807-47ce-b221-5a6bffc1aa7d" alt="ESP32-DIV Beta" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
-      <p style="font-style: italic; font-size: 14px; margin-top: 5px;">ESP32-DIV Beta</p>
-    </td>    
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/fd8ba7d9-0409-4180-af42-a3e6e82b29b3" alt="ESP32-DIV v1" style="width: 600px; border: 1px solid #ccc; border-radius: 5px;">
-      <p style="font-style: italic; font-size: 14px; margin-top: 5px;">ESP32-DIV v1</p>
-    </td>
-  </tr>
-</table>
+<img src="docs/custom-hardware/images/coming-soon.svg" alt="Custom hardware images coming soon" width="100%"/>
 
 <div>&nbsp;</div>
 
