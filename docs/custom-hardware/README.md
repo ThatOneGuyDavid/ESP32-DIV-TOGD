@@ -21,6 +21,9 @@ documentation, physical wiring, and a successful hardware test. Replace each
 
 - [Hardware inventory](hardware-inventory.md)
 - [Display details and pinouts](display.md)
+- [Controller board details](controller.md)
+- [nRF24 radio details](nrf24.md)
+- [CC1101 radio details](cc1101.md)
 - [GPS module details](gps.md)
 - [PN532 module details](pn532.md)
 - [Pin map](pin-map.md)

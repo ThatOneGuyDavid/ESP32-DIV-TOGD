@@ -5,12 +5,12 @@ links, voltage information, and evidence as they become available.
 
 | Subsystem | Part | Interface | Status |
 |---|---|---|---|
-| MCU | ESP32-S3-DevKitC-1-N16R8 | USB, GPIO | Exact module suffix/voltage: **TODO** |
+| MCU | ESP32-S3-DevKitC-1 V1.1, ESP32-S3-WROOM-2 | USB, GPIO | Rear silkscreen photographed; exact N16R8 suffix: **TODO** |
 | Display | Hosyond 4.0-inch 320x480 TN capacitive LCD | SPI | ST7796S confirmed; touch controller: **TODO** |
-| 2.4 GHz radio 1 | NRF24L01+PA+LNA | SPI | Exact module revision: **TODO** |
-| 2.4 GHz radio 2 | NRF24L01+PA+LNA | SPI | Exact module revision: **TODO** |
-| 2.4 GHz radio 3 | NRF24L01+PA+LNA | SPI | Exact module revision: **TODO** |
-| Sub-GHz radio | CC1101 with SMA antenna | SPI | 433 MHz; GDO wiring: **TODO** |
+| 2.4 GHz radio 1 | ACEIRMC NRF24L01+PA+LNA | SPI | Same module as radios 2 and 3; header order: **TODO** |
+| 2.4 GHz radio 2 | ACEIRMC NRF24L01+PA+LNA | SPI | Same module as radios 1 and 3; header order: **TODO** |
+| 2.4 GHz radio 3 | ACEIRMC NRF24L01+PA+LNA | SPI | Same module as radios 1 and 2; header order: **TODO** |
+| Sub-GHz radio | DWEII CC1101 with SMA antenna | SPI | 433 MHz purchase; header order/GDO wiring: **TODO** |
 | GPS | GY-NEO6MV2 NEO-6M | UART | Logic levels and PPS use: **TODO** |
 | NFC/RFID | PN532 V3 | SPI | Interface jumpers and IRQ/reset: **TODO** |
 
