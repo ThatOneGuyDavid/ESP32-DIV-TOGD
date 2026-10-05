@@ -53,7 +53,7 @@ The P2 silkscreen lists these fourteen signals:
 
 The long edge header is labeled with the following signals. The module does
 not print numeric pin numbers beside this header, so GPIO assignments remain
-intentionally unassigned until continuity testing is complete.
+unassigned until continuity testing is complete.
 
 | Printed signal |
 |---|

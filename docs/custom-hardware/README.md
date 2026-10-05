@@ -1,12 +1,11 @@
 # Custom hardware notes
 
-This directory records the hardware adaptation for **ESP32-DIV-TOGD**.
-It intentionally follows the upstream repository layout: firmware remains under
-`ESP32-DIV/`, while board-specific notes live here.
+This directory contains the hardware adaptation notes for **ESP32-DIV-TOGD**.
+Firmware remains under `ESP32-DIV/`; board-specific documentation is collected
+here.
 
-No pin assignment is considered final until it is confirmed from the module
-documentation, physical wiring, and a successful hardware test. Replace each
-`TODO` with evidence as the build progresses.
+Pin assignments remain provisional until confirmed by module documentation,
+physical wiring, and hardware testing.
 
 ## Current hardware inventory
 
@@ -31,6 +30,3 @@ documentation, physical wiring, and a successful hardware test. Replace each
 - [Build notes](build.md)
 - [Bring-up test plan](test-plan.md)
 - [Local photo workflow](local-media-workflow.md)
-
-The firmware files and upstream directory names are intentionally left in their
-original locations so upstream documentation remains easy to follow.

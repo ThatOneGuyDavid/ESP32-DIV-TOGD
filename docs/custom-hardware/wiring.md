@@ -1,6 +1,6 @@
 # Wiring notes
 
-This file will become the human-readable wiring guide. Keep it synchronized with
+This is the human-readable wiring guide. Keep it synchronized with
 [pin-map.md](pin-map.md) and the schematic.
 
 ## Power

@@ -1,7 +1,7 @@
 # Build notes
 
-This is a placeholder for the custom-board build procedure. Keep the upstream
-firmware build steps recognizable and document only deviations here.
+This section records the build procedure and differences from the upstream
+firmware configuration.
 
 ## Toolchain
 
@@ -21,9 +21,8 @@ The expected customization points are:
 - `ESP32-DIV/config.h`
 - Any display-driver or touch-driver setup required by the ST7796S module
 
-Do not place a guessed pin map directly into feature files. Record the final
-values in the custom board section first, then update the smallest upstream
-configuration point that consumes them.
+Record confirmed pin values in the custom-board documentation before changing
+the configuration point that consumes them.
 
 ## Build commands
 

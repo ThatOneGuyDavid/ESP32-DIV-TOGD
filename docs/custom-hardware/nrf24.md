@@ -1,7 +1,7 @@
 # nRF24L01+PA+LNA module details
 
 All three 2.4 GHz radio modules are the same ACEIRMC NRF24L01+PA+LNA module
-from the linked product listing. The photographed module does not have a
+identified by the product listing. The photographed module does not have a
 readable pin legend, so the table below is the standard nRF24L01+ interface
 reference and remains subject to continuity verification.
 

@@ -1,7 +1,7 @@
 # Pin map
 
-All assignments are placeholders. Do not copy the values below into firmware;
-they are intentionally blank until the physical wiring is documented.
+All assignments are placeholders and remain blank until the physical wiring is
+documented.
 
 ## ESP32-S3-DevKitC-1
 

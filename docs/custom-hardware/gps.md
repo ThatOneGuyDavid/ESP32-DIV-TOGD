@@ -23,6 +23,6 @@ those remain TODOs until the specific board documentation is checked.
 | 3 | TX | GPS serial transmit |
 | 4 | GND | Ground |
 
-The published crop includes the module's visible factory identifier and
-machine-readable marking. These identify the hardware, not a person or a
-location; no camera location metadata is included in the published image.
+The image includes the module's visible factory identifier and machine-readable
+marking. These identify the hardware, not a person or a location; no camera
+location metadata is included.

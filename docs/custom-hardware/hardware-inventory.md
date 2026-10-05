@@ -1,7 +1,6 @@
 # Hardware inventory
 
-This is a working inventory, not a final schematic. Add exact part markings,
-links, voltage information, and evidence as they become available.
+This inventory records identified parts, interfaces, and verification status.
 
 | Subsystem | Part | Interface | Status |
 |---|---|---|---|

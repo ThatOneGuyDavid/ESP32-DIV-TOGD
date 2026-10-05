@@ -9,10 +9,9 @@ photo-inbox/
 
 The inbox contains folders for progress, the controller, display, each radio
 module, wiring, assembly, and final-build photos. Keep the camera or phone
-filename; no renaming is required. When you say **publish the new photos**, the
-inbox is the review queue. The files will be checked for private information,
-matched to the appropriate documentation section, resized if needed, and copied
-into the repository only after review.
+filename; no renaming is required. New files are reviewed for private
+information, matched to the appropriate documentation section, resized if
+needed, and copied into the repository only after review.
 
 After publication, processed files can be moved to:
 
