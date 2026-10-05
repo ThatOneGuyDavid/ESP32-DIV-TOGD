@@ -29,4 +29,5 @@ physical wiring, and hardware testing.
 - [Wiring notes](wiring.md)
 - [Build notes](build.md)
 - [Bring-up test plan](test-plan.md)
+- [Hardware verification report](verification-report.md)
 - [Local photo workflow](local-media-workflow.md)

@@ -37,7 +37,9 @@ documented.
 ## Constraints to check before selecting GPIOs
 
 - Preserve USB and boot/strapping functions.
-- Confirm flash/PSRAM-reserved pins for the exact ESP32-S3 module.
-- Confirm whether any onboard RGB LED uses a candidate pin.
+- On WROOM-2/octal-flash variants, GPIO35, GPIO36, and GPIO37 are reserved for
+  internal flash/PSRAM communication.
+- On DevKitC-1 v1.1, GPIO38 drives the onboard RGB LED unless deliberately
+  repurposed.
 - Confirm that every peripheral's logic voltage is compatible.
 - Avoid sharing chip-select, reset, or interrupt lines unintentionally.
