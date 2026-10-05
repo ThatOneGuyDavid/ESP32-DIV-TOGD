@@ -21,6 +21,8 @@ documentation, physical wiring, and a successful hardware test. Replace each
 
 - [Hardware inventory](hardware-inventory.md)
 - [Display details and pinouts](display.md)
+- [GPS module details](gps.md)
+- [PN532 module details](pn532.md)
 - [Pin map](pin-map.md)
 - [Wiring notes](wiring.md)
 - [Build notes](build.md)
