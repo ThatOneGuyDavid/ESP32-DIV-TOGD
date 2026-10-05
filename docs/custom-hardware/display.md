@@ -8,10 +8,21 @@ controller IC.
 
 ## Reference photos
 
-- [Display front](images/display/display-front.jpg)
-- [Display back](images/display/display-back.jpg)
-- [P2 connector pinout](images/display/display-p2-pinout.jpg)
-- [Header signal labels](images/display/display-header-pinout.jpg)
+> **Display front reference** — Unpowered front view of the assembled display module.
+>
+> ![Display front](images/display/display-front.jpg)
+
+> **Display back reference** — Rear board layout, storage slot, touch flex, and connectors.
+>
+> ![Display back](images/display/display-back.jpg)
+
+> **P2 connector callout** — Close-up of the silkscreened 14-pin connector table used below.
+>
+> ![P2 connector pinout](images/display/display-p2-pinout.jpg)
+
+> **Main header callout** — Close-up of the long header’s printed signal labels.
+>
+> ![Main header signal labels](images/display/display-header-pinout.jpg)
 
 The publication copies have been cropped, resized, and stripped of camera
 metadata. The original camera files remain in the local photo archive and are
