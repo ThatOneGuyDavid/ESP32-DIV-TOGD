@@ -20,10 +20,12 @@ documentation, physical wiring, and a successful hardware test. Replace each
 ## Documents
 
 - [Hardware inventory](hardware-inventory.md)
+- [Display details and pinouts](display.md)
 - [Pin map](pin-map.md)
 - [Wiring notes](wiring.md)
 - [Build notes](build.md)
 - [Bring-up test plan](test-plan.md)
+- [Local photo workflow](local-media-workflow.md)
 
 The firmware files and upstream directory names are intentionally left in their
 original locations so upstream documentation remains easy to follow.
